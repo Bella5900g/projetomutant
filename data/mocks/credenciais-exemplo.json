@@ -1,0 +1,5 @@
+{
+  "usuarioValido": "standard_user",
+  "senhaPadrao": "secret_sauce",
+  "descricao": "Referência de dados para cenários positivos (não carregado em runtime pelos testes atuais)."
+}

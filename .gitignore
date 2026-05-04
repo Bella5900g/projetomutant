@@ -1,0 +1,11 @@
+node_modules/
+node-portable.zip
+.tools/
+node-v*-win-x64.zip
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+*.log
+.env
+.DS_Store
